@@ -16,7 +16,7 @@
 | 1 | Christiana Hilarius C. | 250830000090 | Ketua, fitur cari dan filter reservasi |
 | 2 | Siti Sintia | 25083000085 | Fitur tambah reservasi dan integrasi |
 | 3 | Dhiha Hermalia Putri | 25083000107 | Fitur update dan hapus reservasi |
-| 4 | Fahrul Wahid Sobirin | 230830000091 | Fitur tampilkan semua reservasi |
+| 4 | Fahrul Wahid Sobirin | 230830000091 | Fitur tampilkan semua reservasi dan membuat laporan UTS ini |
 
 ## 2. Deskripsi Sistem
 
